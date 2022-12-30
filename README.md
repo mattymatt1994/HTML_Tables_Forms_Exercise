@@ -45,7 +45,6 @@ You will need to search the internet for the total servings, serving size, calor
    - carbs per serving
    - sugars per serving
    - sodium per serving
-
 ## Exercise 3
 
 Steps are to be completed within the main element in your `index.html` file, _below your table_.
